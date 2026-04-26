@@ -1,0 +1,25 @@
+langchain-tavily
+python-dotenv
+requests
+uvicorn
+fastapi
+redis
+mem0ai
+
+# LangChain ecosystem (new modular)
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-groq
+
+# vector DB (v4 + LangChain Weaviate integration)
+weaviate-client>=4.0.0
+langchain-weaviate
+
+# optional but useful
+tiktoken
+
+langchain-huggingface
+sentence-transformers
